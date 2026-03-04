@@ -17,7 +17,7 @@ This repository features a range of personal projects I’ve completed while wor
   * _Project Location:_ [Stack Overflow Python Analysis.ipynb](https://github.com/Iryna-Dol/python-analytics-homework/blob/main/Stack%20Overflow%20Python%20Analysis.ipynb)
 
 * **Titanic Survival Analysis**
-  * _Description: Exploratory data analysis of the Titanic dataset using Python.
+  * _Description:_ Exploratory data analysis of the Titanic dataset using Python.
   * _Tasks:_ Cleaned and prepared data, handled missing values, performed grouping and aggregation, and analyzed survival patterns by gender and passenger class.
   * _Project Location:_ [Titanic Survival Analysis.ipynb](https://github.com/Iryna-Dol/python-analytics-homework/blob/main/Titanic%20Survival%20Analysis.ipynb)
 
@@ -38,6 +38,6 @@ These analytics projects are concentrated on:
 
 ### 🛠 Projects List
 * **E-Commerce Sales Analysis**
-  * _Description: Researching transactional data of an online store to optimize profit and logistics.
+  * _Description:_ Researching transactional data of an online store to optimize profit and logistics.
   * _Tasks:_ Data cleaning, writing SQL queries to calculate KPIs, building dashboards, and analyzing the effectiveness of discounts.
   * _Project Location:_ [Google Sheets](https://docs.google.com/spreadsheets/d/1eQsA6wydsjBSEFGrgW1W07qPtqJ_KMSGoSk0hqdbKjU/edit?usp=sharing).
