@@ -13,12 +13,12 @@ This repository features a range of personal projects I’ve completed while wor
 ### 🛠 Projects
 * **Stack Overflow Survey Analysis**
   * _Description:_ Identifying IT trends based on data from 49,000+ respondents to find promising remote work opportunities.
-  * _Tasks:_ Processing large CSV arrays, segmenting developers by income and work format, analyzing Python popularity, and learning methods.
+  * _Tasks:_ Process large CSV arrays, segment developers by income and work format, analyze Python popularity, and learning methods.
   * _Project Location:_ [Stack Overflow Python Analysis.ipynb](https://github.com/Iryna-Dol/python-analytics-homework/blob/main/Stack%20Overflow%20Python%20Analysis.ipynb)
 
 * **Titanic Survival Analysis**
   * _Description:_ Exploratory data analysis of the Titanic dataset using Python.
-  * _Tasks:_ Cleaned and prepared data, handled missing values, performed grouping and aggregation, and analyzed survival patterns by gender and passenger class.
+  * _Tasks:_ Clean and prepare data, handle missing values, perform grouping and aggregation, and analyze survival patterns by gender and passenger class.
   * _Project Location:_ [Titanic Survival Analysis.ipynb](https://github.com/Iryna-Dol/python-analytics-homework/blob/main/Titanic%20Survival%20Analysis.ipynb)
 
 ### ✅ Projects Overview
@@ -39,5 +39,5 @@ These analytics projects are concentrated on:
 ### 🛠 Projects List
 * **E-Commerce Sales Analysis**
   * _Description:_ Researching transactional data of an online store to optimize profit and logistics.
-  * _Tasks:_ Data cleaning, writing SQL queries to calculate KPIs, building dashboards, and analyzing the effectiveness of discounts.
+  * _Tasks:_ Clean and prepare data, write SQL queries to calculate KPIs, build dashboards, and analyze the effectiveness of discounts.
   * _Project Location:_ [Google Sheets](https://docs.google.com/spreadsheets/d/1eQsA6wydsjBSEFGrgW1W07qPtqJ_KMSGoSk0hqdbKjU/edit?usp=sharing).
